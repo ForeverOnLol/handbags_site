@@ -85,3 +85,57 @@ header{
     background: #1F1F1F;
     color: #FFFFFF;
 }
+
+.header__tabs_phoneIcon{
+    width: 14px;
+    height: 12px;
+    position: relative;
+    left: 990px;
+    top: 36px;
+}
+
+.header__tabs_number{
+    font-family: 'PT Sans', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #969696;
+    position: relative;
+    left: 993px;
+    top: 33px;
+}
+
+.header__tabs_delivery{
+    font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #969696;
+    position: relative;
+    left: 1015px;
+    top: 33px;
+}
+
+.header__tabs_bucket{
+    width: 22px;
+    height: 22px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: relative;
+    left: 1036px;
+    top: 29px;
+    cursor: pointer;
+}
+
+.header__tabs_search{
+    width: 22px;
+    height: 22px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    position: relative;
+    left: 1076px;
+    top: 28px;
+    cursor: pointer;
+}
